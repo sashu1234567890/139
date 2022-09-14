@@ -1,0 +1,21 @@
+.heading
+{
+    background-color: purple;
+    width: 100%;
+    text-align: left;
+}
+.modal_button
+{
+    background-color: azure;
+}
+.copyright
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: chartreuse;
+    color: powderblue;
+    line-height: 3;
+    text-align: center;
+}
+
